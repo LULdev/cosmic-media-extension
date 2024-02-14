@@ -12,7 +12,7 @@ export const siteConfig = {
     },
   ],
   links: {
-    x: "https://x.com/cosmicjs",
+    x: "https://x.com/",
     github: "https://github.com/cosmicjs/cosmic-media-extension",
     docs: "https://www.cosmicjs.com/docs",
     login: "https://app.cosmicjs.com/login",
